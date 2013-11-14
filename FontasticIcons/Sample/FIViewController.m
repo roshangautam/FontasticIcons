@@ -114,6 +114,7 @@ const static NSUInteger kColumnsCount = 3;
 
 - (FIIcon *)randomIcon {
     NSArray *icons = [_iconClass iconNames];
+    NSLog(@"%@",icons);
     NSInteger iconIndex = arc4random() % icons.count;
     NSString *iconName = [icons objectAtIndex:iconIndex];
     return [_iconClass iconWithName:iconName];

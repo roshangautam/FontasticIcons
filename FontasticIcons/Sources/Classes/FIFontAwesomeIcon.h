@@ -619,10 +619,6 @@
 
 + (instancetype)compassIcon;
 
-+ (instancetype)collapseIcon;
-
-+ (instancetype)collapseTopIcon;
-
 + (instancetype)expandIcon;
 
 + (instancetype)eurIcon;
@@ -776,7 +772,5 @@
 + (instancetype)turkishLiraIcon;
 
 + (instancetype)plusSquareOldIcon;
-
-
 
 @end

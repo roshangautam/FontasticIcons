@@ -20,7 +20,6 @@
 		CA04FA5A174CC1C5004FA4F6 /* IconicStroke.strings in Resources */ = {isa = PBXBuildFile; fileRef = CA04FA55174CC1C5004FA4F6 /* IconicStroke.strings */; };
 		CA04FA5F174CC1CD004FA4F6 /* Entypo-Social.otf in Resources */ = {isa = PBXBuildFile; fileRef = CA04FA5B174CC1CD004FA4F6 /* Entypo-Social.otf */; };
 		CA04FA60174CC1CD004FA4F6 /* Entypo.otf in Resources */ = {isa = PBXBuildFile; fileRef = CA04FA5C174CC1CD004FA4F6 /* Entypo.otf */; };
-		CA04FA61174CC1CD004FA4F6 /* fontawesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA04FA5D174CC1CD004FA4F6 /* fontawesome.ttf */; };
 		CA04FA62174CC1CD004FA4F6 /* iconic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CA04FA5E174CC1CD004FA4F6 /* iconic.otf */; };
 		CA31B9A71657E194002A9EDD /* FIFontListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA31B9A61657E194002A9EDD /* FIFontListViewController.m */; };
 		CA31B9CE165807F5002A9EDD /* FIFontAwesomeIcon.m in Sources */ = {isa = PBXBuildFile; fileRef = CA31B9CD165807F5002A9EDD /* FIFontAwesomeIcon.m */; };
@@ -44,6 +43,7 @@
 		CA7C561A163EFBCC00AC32A3 /* FIEntypoSocialIcon.m in Sources */ = {isa = PBXBuildFile; fileRef = CA7C5619163EFBCC00AC32A3 /* FIEntypoSocialIcon.m */; };
 		E1B6DBF51693A4A600B6704C /* FIIconLayer+FIRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = B0E07B56EB080A788441AB2E /* FIIconLayer+FIRenderer.m */; };
 		E1EC0266168FE25D004A8EDD /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1EC0263168FE23B004A8EDD /* QuartzCore.framework */; };
+		F0C979BD18357E9E00F807D8 /* fontawesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F0C979BC18357E9E00F807D8 /* fontawesome.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,7 +71,6 @@
 		CA04FA55174CC1C5004FA4F6 /* IconicStroke.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = IconicStroke.strings; sourceTree = "<group>"; };
 		CA04FA5B174CC1CD004FA4F6 /* Entypo-Social.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Entypo-Social.otf"; sourceTree = "<group>"; };
 		CA04FA5C174CC1CD004FA4F6 /* Entypo.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.otf; sourceTree = "<group>"; };
-		CA04FA5D174CC1CD004FA4F6 /* fontawesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = fontawesome.ttf; sourceTree = "<group>"; };
 		CA04FA5E174CC1CD004FA4F6 /* iconic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconic.otf; sourceTree = "<group>"; };
 		CA31B9A51657E194002A9EDD /* FIFontListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIFontListViewController.h; sourceTree = "<group>"; };
 		CA31B9A61657E194002A9EDD /* FIFontListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FIFontListViewController.m; sourceTree = "<group>"; };
@@ -110,6 +109,7 @@
 		CA7C562D163FAC5300AC32A3 /* FontasticIcons.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FontasticIcons.h; sourceTree = "<group>"; };
 		E1EC0263168FE23B004A8EDD /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		E1EC02671690028C004A8EDD /* FontasticIcons.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; fileEncoding = 4; path = FontasticIcons.podspec; sourceTree = "<group>"; };
+		F0C979BC18357E9E00F807D8 /* fontawesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = fontawesome.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,9 +144,9 @@
 		CA04FA4F174CC120004FA4F6 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
+				F0C979BC18357E9E00F807D8 /* fontawesome.ttf */,
 				CA04FA5B174CC1CD004FA4F6 /* Entypo-Social.otf */,
 				CA04FA5C174CC1CD004FA4F6 /* Entypo.otf */,
-				CA04FA5D174CC1CD004FA4F6 /* fontawesome.ttf */,
 				CA04FA5E174CC1CD004FA4F6 /* iconic.otf */,
 			);
 			path = Fonts;
@@ -414,8 +414,8 @@
 				CA04FA59174CC1C5004FA4F6 /* FontAwesomeRegular+Deprecation.strings in Resources */,
 				CA04FA5A174CC1C5004FA4F6 /* IconicStroke.strings in Resources */,
 				CA04FA5F174CC1CD004FA4F6 /* Entypo-Social.otf in Resources */,
+				F0C979BD18357E9E00F807D8 /* fontawesome.ttf in Resources */,
 				CA04FA60174CC1CD004FA4F6 /* Entypo.otf in Resources */,
-				CA04FA61174CC1CD004FA4F6 /* fontawesome.ttf in Resources */,
 				CA04FA62174CC1CD004FA4F6 /* iconic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
