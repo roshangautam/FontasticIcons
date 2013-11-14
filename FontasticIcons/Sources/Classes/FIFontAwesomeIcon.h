@@ -617,5 +617,166 @@
 
 + (instancetype)shareSignIcon;
 
++ (instancetype)compassIcon;
+
++ (instancetype)collapseIcon;
+
++ (instancetype)collapseTopIcon;
+
++ (instancetype)expandIcon;
+
++ (instancetype)eurIcon;
+
++ (instancetype)euroIcon;
+
++ (instancetype)gbpIcon;
+
++ (instancetype)usdIcon;
+
++ (instancetype)dollarIcon;
+
++ (instancetype)inrIcon;
+
++ (instancetype)rupeeIcon;
+
++ (instancetype)jpyIcon;
+
++ (instancetype)yenIcon;
+
++ (instancetype)cnyIcon;
+
++ (instancetype)renminbiIcon;
+
++ (instancetype)krwIcon;
+
++ (instancetype)wonIcon;
+
++ (instancetype)btcIcon;
+
++ (instancetype)bitcoinIcon;
+
++ (instancetype)fileIconNew;
+
++ (instancetype)fileTextIcon;
+
++ (instancetype)sortByAlphabetIcon;
+
++ (instancetype)sortByAlphabetAltIcon;
+
++ (instancetype)sortByAttributesIcon;
+
++ (instancetype)sortByAttributesAltIcon;
+
++ (instancetype)sortByOrderIcon;
+
++ (instancetype)sortByOrderAltIcon;
+
++ (instancetype)thumbsUpIconNew;
+
++ (instancetype)thumbsDownIconNew;
+
++ (instancetype)youtubeSignIcon;
+
++ (instancetype)youtubeIcon;
+
++ (instancetype)xingIcon;
+
++ (instancetype)xingSignIcon;
+
++ (instancetype)youtubePlayIcon;
+
++ (instancetype)dropboxIcon;
+
++ (instancetype)stackOverflowIcon;
+
++ (instancetype)instagramIcon;
+
++ (instancetype)flickrIcon;
+
++ (instancetype)adnIcon;
+
++ (instancetype)bitbucketIcon;
+
++ (instancetype)bitbucketSignIcon;
+
++ (instancetype)tumblrIcon;
+
++ (instancetype)tumblrSignIcon;
+
++ (instancetype)longArrowDownIcon;
+
++ (instancetype)longArrowUpIcon;
+
++ (instancetype)longArrowLeftIcon;
+
++ (instancetype)longArrowRightIcon;
+
++ (instancetype)appleIcon;
+
++ (instancetype)windowsIcon;
+
++ (instancetype)androidIcon;
+
++ (instancetype)linuxIcon;
+
++ (instancetype)dribbbleIcon;
+
++ (instancetype)skypeIcon;
+
++ (instancetype)foursquareIcon;
+
++ (instancetype)trelloIcon;
+
++ (instancetype)femaleIcon;
+
++ (instancetype)maleIcon;
+
++ (instancetype)gittipIcon;
+
++ (instancetype)sunIcon;
+
++ (instancetype)moonIcon;
+
++ (instancetype)archiveIcon;
+
++ (instancetype)bugIcon;
+
++ (instancetype)vkIcon;
+
++ (instancetype)weiboIcon;
+
++ (instancetype)renrenIcon;
+
++ (instancetype)rubIcon;
+
++ (instancetype)rubleIcon;
+
++ (instancetype)roubleIcon;
+
++ (instancetype)pagelinesIcon;
+
++ (instancetype)stackExchangeIcon;
+
++ (instancetype)arrowCircleRightOldIcon;
+
++ (instancetype)arrowCircleLeftOldIcon;
+
++ (instancetype)caretSquareLeftOldIcon;
+
++ (instancetype)toggleLeftIcon;
+
++ (instancetype)dotCircleOldIcon;
+
++ (instancetype)wheelchairIcon;
+
++ (instancetype)vimeoSquareIcon;
+
++ (instancetype)tryIcon;
+
++ (instancetype)turkishLiraIcon;
+
++ (instancetype)plusSquareOldIcon;
+
+
 
 @end

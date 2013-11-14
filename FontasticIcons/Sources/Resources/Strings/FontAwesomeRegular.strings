@@ -608,3 +608,163 @@
 "externalLinkSign" = "\Uf14c";
 
 "shareSign" = "\Uf14d";
+
+"compass" = "\Uf14e";
+
+"collapse" = "\Uf150";
+
+"collapseTop" = "\Uf151";
+
+"expand" = "\Uf065";
+
+"eur" = "\Uf153";
+
+"euro" = "\Uf153";
+
+"gbp" = "\Uf154";
+
+"usd" = "\Uf155";
+
+"dollar" = "\Uf155";
+
+"inr" = "\Uf156";
+
+"rupee" = "\Uf156";
+
+"jpy" = "\Uf157";
+
+"yen" = "\Uf157";
+
+"cny" = "\Uf157";
+
+"renminbi" = "\Uf157";
+
+"krw" = "\Uf159";
+
+"won" = "\Uf159";
+
+"btc" = "\Uf15a";
+
+"bitcoin" = "\Uf15a";
+
+"file" = "\Uf016";
+
+"fileText" = "\Uf15c";
+
+"sortByAlphabet" = "\Uf15d";
+
+"sortByAlphabetAlt" = "\Uf15e";
+
+"sortByAttributes" = "\Uf160";
+
+"sortByAttributesAlt" = "\Uf161";
+
+"sortByOrder" = "\Uf162";
+
+"sortByOrderAlt" = "\Uf163";
+
+"thumbsUp" = "\Uf164";
+
+"thumbsDown" = "\Uf165";
+
+"youtubeSign" = "\Uf166";
+
+"youtube" = "\Uf167";
+
+"xing" = "\Uf168";
+
+"xingSign" = "\Uf169";
+
+"youtubePlay" = "\Uf16a";
+
+"dropbox" = "\Uf16b";
+
+"stackOverflow" = "\Uf16c";
+
+"instagram" = "\Uf16d";
+
+"flickr" = "\Uf16e";
+
+"adn" = "\Uf170";
+
+"bitbucket" = "\Uf171";
+
+"bitbucketSign" = "\Uf172";
+
+"tumblr" = "\Uf173";
+
+"tumblrSign" = "\Uf174";
+
+"longArrowDown" = "\Uf175";
+
+"longArrowUp" = "\Uf176";
+
+"longArrowLeft" = "\Uf177";
+
+"longArrowRight" = "\Uf178";
+
+"apple" = "\Uf179";
+
+"windows" = "\Uf17a";
+
+"android" = "\Uf17b";
+
+"linux" = "\Uf17c";
+
+"dribbble" = "\Uf17d";
+
+"skype" = "\Uf17e";
+
+"foursquare" = "\Uf180";
+
+"trello" = "\Uf181";
+
+"female" = "\Uf182";
+
+"male" = "\Uf183";
+
+"gittip" = "\Uf184";
+
+"sun" = "\Uf185";
+
+"moon" = "\Uf186";
+
+"archive" = "\Uf187";
+
+"bug" = "\Uf188";
+
+"vk" = "\Uf189";
+
+"weibo" = "\Uf18a";
+
+"renren" = "\Uf18b";
+
+"rub" = "\Uf158";
+
+"ruble" = "\Uf158";
+
+"rouble" = "\Uf158";
+
+"pagelines" = "\Uf18c";
+
+"stackExchange" = "\Uf18d";
+
+"arrowCircleRightOutlined" = "\Uf18e";
+
+"arrowCircleLeftOutlined" = "\Uf190";
+
+"caretSquareLeftOutlined" = "\Uf191";
+
+"toggleLeft" = "\Uf191";
+
+"dotCircleOutlined" = "\Uf192";
+
+"wheelchair" = "\Uf193";
+
+"vimeoSquare" = "\Uf194";
+
+"try" = "\Uf195";
+
+"turkishLira" = "\Uf195";
+
+"plusSquareOutlined" = "\Uf196";
